@@ -1,0 +1,25 @@
+/* Orders.css */
+.orders {
+  padding: 20px;
+}
+
+.orders h1 {
+  margin-bottom: 20px;
+}
+
+.order__order {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+  .orders {
+    padding: 10px;
+  }
+
+  .orders h1 {
+    font-size: 20px;
+  }
+}

@@ -1,13 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import { CartContextProvider } from "./Context/contextProvider";
+import reducer, { initialState } from "./Context/reducer";
+import { Toaster } from 'react-hot-toast';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <CartContextProvider initialState={initialState} reducer={reducer}>
+      <Toaster />
+      <App />
+    </CartContextProvider>
   </React.StrictMode>
 );
 
