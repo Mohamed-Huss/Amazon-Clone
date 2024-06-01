@@ -1,10 +1,10 @@
-Amazon Clone E-commerce 🛒✨
+# Amazon Clone E-commerce 🛒✨
 Welcome to the Amazon Clone, an impressive replica of the world's leading online marketplace, Amazon. This project aims to provide an immersive and seamless shopping experience, emulating the features and functionalities of Amazon. Crafted with modern web technologies, our Amazon Clone offers a dynamic and responsive user interface. This application leverages React, Firebase, Context API with the useReducer hook, and Material-UI to deliver a comprehensive and user-friendly e-commerce platform.
 
-🌐 Explore the Marketplace
+## 🌐 Explore the Marketplace
 Dive into an extensive selection of products ranging from electronics to fashion, books, and more. Experience the convenience and variety of shopping on our Amazon Clone.
 
-Live Demo
+### Live Demo
 Check out the live demo of our Amazon Clone here.
 
 Demo Credentials
