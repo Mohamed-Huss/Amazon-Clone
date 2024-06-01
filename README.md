@@ -1,4 +1,4 @@
-# Amazon Clone ![Amazon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/20px-Amazon_icon.svg.png) ✨
+# Amazon Clone ![Amazon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/24px-Amazon_icon.svg.png) ✨
 
 Welcome to the Amazon Clone, your ultimate destination for a seamless and enjoyable online shopping experience. Crafted with precision and powered by cutting-edge technologies, the Amazon Clone ensures that your journey through the world of e-commerce is not only smooth but also delightful. This application is built using React, Firebase, Context API with the useReducer hook, and Material-UI to provide you with a modern and responsive e-commerce platform.
 
