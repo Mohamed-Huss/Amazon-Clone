@@ -64,4 +64,4 @@ We welcome contributions! If you'd like to contribute to the Amazon Clone projec
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a pull request.
 
-🚀 Developed with passion by [Your Name].
+🚀 Developed with passion by Mohamed Hussein.
